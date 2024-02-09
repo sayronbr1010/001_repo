@@ -3,9 +3,7 @@ programa
 	
 	funcao inicio()
 	{
-		inteiro n1=0
-		inteiro n2=0
-		enquanto(n1 != 1){
+		enquanto(1 != 2){
 		escreva ("eu amo voce ", n2++ ,"vezes\n")}
 		
 		
